@@ -1,3 +1,6 @@
 [submodule "fpm"]
 	path = fpm
 	url = git@github.com:jordansissel/fpm.git
+[submodule "homebrew"]
+	path = homebrew
+	url = git@github.com:Homebrew/homebrew.git
