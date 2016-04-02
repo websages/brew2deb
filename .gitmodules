@@ -1,0 +1,3 @@
+[submodule "fpm"]
+	path = fpm
+	url = git@github.com:jordansissel/fpm.git
